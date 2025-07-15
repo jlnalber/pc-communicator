@@ -1,13 +1,3 @@
-# SPDX-License-Identifier: MIT
-# Copyright (c) 2020 Henrik Blidh
-# Copyright (c) 2022-2023 The Pybricks Authors
-
-"""
-Example program for computer-to-hub communication.
-
-Requires Pybricks firmware >= 3.3.0.
-"""
-
 import sys
 sys.coinit_flags = 0 
 
